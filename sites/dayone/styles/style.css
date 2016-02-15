@@ -1,0 +1,32 @@
+#get-color {
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  background: none;
+  width: 25%;
+  height: 40px;
+  border: 1px solid #fff;
+  color: #fff;
+  padding: -5px 5px;
+  position: relative;
+  margin: 0 38%;
+}
+
+#get-color:hover {
+  color: #000;
+  border: 1px solid #000;
+}
+
+#color-text {
+  display: block;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 15px;
+  margin-left: 44%;
+}
+
+.btn-container {
+  margin: 0 auto;
+  width: 900px;
+}
+

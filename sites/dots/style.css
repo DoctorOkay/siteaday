@@ -1,0 +1,38 @@
+body {
+  background: rgb(87, 80, 82);
+  font-family: Avenir, sans-serif ;
+}
+
+canvas {
+  display: block;
+  border: 2px solid black;
+  margin: auto;
+  padding; 0;
+  background: white;
+}
+
+ul li {
+  display: inline-block;
+  width: 12%;
+  color: white;
+}
+
+header {
+  padding-left: 70%;
+  margin: 0;
+}
+
+.buttons {
+  text-align: center;
+  margin: 10px auto;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: inherit;
+}
+
+a:hover {
+  color: rgb(155, 155, 155);
+}
